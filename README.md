@@ -2,27 +2,35 @@
 
 ### Milan Telecom Dataset Analysis
 
-This repository contains all the code about my Application to PhD Position at IMDEA Networks Institute. This project is bout analyses the internet traffic activity in Milan using Big Data Challenge Dataset that was collected during two months from November to December 2013. The mains of this work is to predict the future internet activity from 16 to 22 December.
+This repository contains the code and documentation related to my application for the PhD position at IMDEA Networks Institute. The project focuses on analyzing internet traffic activity in Milan using the Big Data Challenge dataset, which was collected over two months from November to December 2013.
+
+The primary objective of this work is to predict internet activity in Milan for the period from December 16 to December 22, based on patterns observed in historical data.
 
 
 ### Structure of this Work
 
-Our work is structure as follows :
+Our work is structured as follows:
 
-    - the folder dataset: contains all dataset the cleaning data that we need to run our notebook
-    - two neotebooks : one for cleaning and pre-processing data analysis and other conatins all code relate to our work.
+- **`dataset/` folder**: Contains the raw and cleaned datasets required to run the notebooks(20G).
+
+- **Two Jupyter notebooks**:
+  - The first notebook focuses on data cleaning, preprocessing, and exploratory data analysis.
+  - The second notebook contains the core implementation related to our predictive modeling and analysis.
     
     
  
 
-### How jupyter notebook
+### How Jupyter Notebook
 
-    The raison why we choice the jupyter notebook is to make wour work reproductible.
+We chose to use Jupyter Notebooks to ensure our work is reproducible, well-documented, and easy to follow.
 
 #### How to Run the Cod
 
-In order to run the code of this work just following the steps:
+To run the code for this project, please follow these steps:
 
-    - the notebook __preprocessing data.ipynb__ contains all the ode relate to proeccsing and cleaning of our dataset. ude the fact that our dataset is very big we don't inlcut in this work.
-    - the notebook _home_work_code.ipynb__ contains all the code relate to the all part of our work.
+- The notebook `preprocessing_data.ipynb` contains all the code related to processing and cleaning the dataset.  
+  **Note:** Due to the large size of the dataset, it is not included directly in this repository.
+
+- The notebook `home_work_code.ipynb` contains the complete implementation of our analysis and modeling pipeline.
+
     
