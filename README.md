@@ -11,7 +11,7 @@ The primary objective of this work is to predict internet activity in Milan for 
 
 Our work is structured as follows:
 
-- **`dataset/` folder**: Contains the raw and cleaned datasets required to run the notebooks(20G).
+- **`dataset/` folder**: Contains the raw and cleaned datasets required to run the notebooks(20GB).
 
 - **Two Jupyter notebooks**:
   - The first notebook focuses on data cleaning, preprocessing, and exploratory data analysis.
