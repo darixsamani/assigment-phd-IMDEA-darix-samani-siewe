@@ -24,7 +24,7 @@ Our work is structured as follows:
 
 We chose to use Jupyter Notebooks to ensure our work is reproducible, well-documented, and easy to follow.
 
-#### How to Run the Cod
+#### How to Run the Code
 
 To run the code for this project, please follow these steps:
 
